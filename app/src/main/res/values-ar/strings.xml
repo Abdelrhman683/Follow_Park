@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FollowPark</string>
+    <string name="you_have_account">هل لديك حساب</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل</string>
+    <string name="forget_password">هل نسيت كلمة المورو؟</string>
+    <string name="new_user_sign_up_now">مستخدم جديد؟ تسجيل الدخرل الان </string>
+    <string name="other_login">طريقة اخري</string>
+    <string name="what_s_your_name">ما اسمك؟</string>
+    <string name="first_name">الاسم الاول</string>
+    <string name="last_name">الاسم الاخير</string>
+    <string name="next">التالي</string>
+    <string name="mobile_number">رقم الهاتف</string>
+    <string name="sign_up_with_email_address">تسجيل الدخول عبر البريد اللالكتروني</string>
+    <string name="enter_your_mobile_number">ادخل رقم الهاتف</string>
+    <string name="re_password">اعادة كلمة المرور</string>
+    <string name="enter_your_email">ادخل البريد الالكتروني</string>
+    <string name="Name">Name</string>
+</resources>

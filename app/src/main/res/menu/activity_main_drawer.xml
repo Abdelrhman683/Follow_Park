@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+
+        <item
+            android:id="@+id/park"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="Park" />
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="Setting" />
+        <item
+            android:id="@+id/rate"
+            android:icon="@drawable/ic_baseline_star_rate_24"
+            android:title="Rate US" />
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/ic_baseline_help_24"
+            android:title="Help" />
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_baseline_login_24"
+            android:title="Logout"
+            android:onClick="logout"
+            />
+
+    </group>
+</menu>
